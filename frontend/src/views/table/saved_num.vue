@@ -81,7 +81,7 @@ export default {
 #saved div {
   display: inline-block;
   background: #4285F4;
-  width: 20px;
+  width: 5px;
   margin-right: 3px;
 }
 </style>
