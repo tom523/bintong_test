@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'vcenter同步日志',
+  title: 'bintong测试',
 
   /**
    * @type {boolean} true | false
